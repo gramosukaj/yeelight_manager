@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^command/?$ command.php [NC,L]
+RewriteRule ^[^/]+/(\w+)$ command.php?action=$1
