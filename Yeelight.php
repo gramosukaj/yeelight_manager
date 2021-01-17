@@ -117,7 +117,7 @@ class Yeelight
 
         public function refresh_db_data($id)
         {
-            $db_dir = "sqlite:c:/wamp64/www/yeelight_api/yeelight.sqlite";
+            $db_dir = "sqlite:./yeelight.sqlite";
             $db = new PDO($db_dir);
             $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             $select = $db->prepare('SELECT yeelight.id as id, ip_address, yeelight.name as name, type.name as type_name FROM yeelight JOIN type ON type.id = yeelight.type WHERE yeelight.id = :id');
