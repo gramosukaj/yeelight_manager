@@ -1,4 +1,4 @@
-# yeelight_manager
+# Yeelight Manager
 
 A website project to manage the Yeelight products (only RGB Lamp for the moment)
 
