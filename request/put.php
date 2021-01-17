@@ -10,7 +10,7 @@ curl_setopt($ch, CURLOPT_POSTFIELDS,http_build_query($data));
 $response = curl_exec($ch);
 
 echo($response);*/
-$db_dir = "sqlite:c:/wamp64/www/yeelight_api/yeelight.sqlite";
+$db_dir = "sqlite:../yeelight.sqlite";
 $db = new PDO($db_dir);
 
 $id = $_POST['id'];

@@ -1,7 +1,7 @@
 <?php
 session_start();
 require('Yeelight.php');
-$db_dir = "sqlite:c:/wamp64/www/yeelight_api/yeelight.sqlite";
+$db_dir = "sqlite:./yeelight.sqlite";
 $db = new PDO($db_dir);
 $results_show = $db->query('SELECT yeelight.id as id, yeelight.name as name, ip_address, type.name as type_name, yeelight.type as type_id FROM yeelight JOIN type ON type.id = yeelight.type')->fetchAll();
 
