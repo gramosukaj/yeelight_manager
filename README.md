@@ -1,6 +1,6 @@
 # Yeelight Manager
 
-A website project to manage the Yeelight products (only RGB Lamp for the moment)
+A website project to manage the Yeelight products (only RGB Lamp and strip for the moment)
 
 ### Requirements
 
