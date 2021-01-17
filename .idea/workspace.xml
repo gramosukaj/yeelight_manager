@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1217929f-d381-4a06-80b0-8b0b3469f2c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hrpeNQU6HLjfT57S3lNB36dhKa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../github/smart_conciergerie" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\yeelight_api\request" />
+      <recent name="C:\wamp64\www\yeelight_api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1217929f-d381-4a06-80b0-8b0b3469f2c6" name="Default Changelist" comment="" />
+      <created>1600779160223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600779160223</updated>
+      <workItem from="1600779161583" duration="8630000" />
+      <workItem from="1600868710846" duration="8555000" />
+      <workItem from="1600893494401" duration="11837000" />
+      <workItem from="1600938160123" duration="20423000" />
+      <workItem from="1601162323259" duration="214000" />
+      <workItem from="1601162546095" duration="1521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1601163615235">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601163615235" />
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601163597736">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601163597736" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1601164078549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601164078549" />
+    <state x="-1003" y="152" key="SettingsEditor" timestamp="1601162772744">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1003" y="152" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601162772744" />
+    <state x="736" y="297" key="refactoring.ChangeSignatureDialog" timestamp="1600781032024">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="736" y="297" key="refactoring.ChangeSignatureDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1600781032024" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1600781626382">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1600781626382" />
+    <state x="682" y="437" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600868796232">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="682" y="437" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1600868796232" />
+  </component>
+</project>
